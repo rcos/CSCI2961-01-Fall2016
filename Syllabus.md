@@ -1,19 +1,11 @@
-# CSCI 2963-01 Introduction to Open Source
+# CSCI 2961-01 Introduction to Open Source
 ## Instructor: Mukkai Krishnamoorthy
-## Class Place and Time: ** Walker 5113 ** T, F  Noon - 1:50 pm
+## Class Place and Time: **  ** T, F  Noon - 1:50 pm
 ### Office Hours: T, F 2 - 3:30 pm
 
 ### Undergraduate Teaching Assistants:
 
-- Jim Boulter '17
 
--  Aaron Gunderson '17
-
-- Thomas Manzini '16
-
-- Matthew Mawby '18
-
-- Kiana McNellis '17
 
 ##  Lectures are on Tuesdays and Labs are on Fridays
 
@@ -62,20 +54,20 @@ in preparation for jobs in industry or for more advanced courses.
 
 ## Grading Criteria:
 
-- 2 Quizzes (15 points each) - 30%  (**4th March, 22nd April**)
+- 2 Quizzes (15 points each) - 30%  (**7th October, 18th November**)
 - 10 Labs (3 points each) - 30%
 - Project - 40%
 
 ## Quiz Dates
 
-- Quiz 1 4th March
-- Quiz 2 22nd April
+- Quiz 1 7th October
+- Quiz 2 18th November
 
 93 and above A; 90 and above A-; 85 and above B+; 80 and above B; 75 and above B-; 70 and above C+; 65 and above C; 60 and above C-; 55 and above D+; 50 and above D.
 
 ## Community:
 
-Please join csci2963-01 channel in http://rcos.slack.com 
+Please join csci2963-01-Fall2016 channel in http://rcos.slack.com 
 
 ## Integrity
 
