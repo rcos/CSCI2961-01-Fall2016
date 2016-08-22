@@ -67,7 +67,7 @@ in preparation for jobs in industry or for more advanced courses.
 
 ## Community:
 
-Please join csci2963-01-Fall2016 channel in http://rcos.slack.com 
+Please join csci2961-01-Fall2016 channel in http://rcos.slack.com 
 
 ## Integrity
 
