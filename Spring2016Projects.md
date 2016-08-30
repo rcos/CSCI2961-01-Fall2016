@@ -44,7 +44,7 @@
   - **Presentation Slides** https://docs.google.com/presentation/d/1WSf-0S1TCgHXTNsJ2EJUs47pPx-Ip_J9EWNaveN_0I0/edit#slide=id.p
   - **Repository** https://github.com/erinjordan24/relax
   - **Blog** https://rcos.io/projects/erinjordan24/relax/blog
-- **Pokeman Snowdown:** Adeel Phanse. Alvin Leung, Jacob Arriola, Matt Bu 
+- **Pokemon Snowdown:** Adeel Phanse. Alvin Leung, Jacob Arriola, Matt Bu 
   - **Pitch Slides** https://drive.google.com/file/d/0B3AxVWEWY1u0VHAwZHRQSndHb28/view?usp=sharing
   - **Date for Presentation 5/6**
   - **Presentation Slides** https://slack-files.com/files-pri-safe/T033VT1N8-F16PX4BL6/pokesnowdown_presentation_final.pdf?c=1462556426-05d57900879c998aff13852263acffb73a8d1cfe
