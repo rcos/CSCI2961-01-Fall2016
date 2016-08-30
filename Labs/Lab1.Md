@@ -1,4 +1,4 @@
-# Lab 1  Friday 29th January 2016 (in class lab)
+# Lab 1  Friday September 2nd 2016 (in class lab)
 
 ## Github, Linux Command Line Instructions, Regular Expressions and Visual Programming
 

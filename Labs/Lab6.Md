@@ -1,4 +1,4 @@
-# Lab 6 Community Development and Unit Testing - March 11, 2016
+# Lab 6 Community Development and Unit Testing - October 7, 2016
 
 ## This Lab has two parts - [Community](#part-1) and [Unit Testing](#part-2)
 
