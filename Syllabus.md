@@ -5,7 +5,7 @@
 
 ### Undergraduate Teaching Assistants:
 
-- Phanse Adeet '18 adeetp@rpi.edu
+- Adeet Phanse '18 phansa@rpi.edu
 - Matthew Mawby '18 mawbym@rpi.edu
 - Sean Waclawik '18 waclas@rpi.edu 
 
