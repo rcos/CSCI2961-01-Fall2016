@@ -22,8 +22,10 @@ c. Reading assignments - make sure to reflect on these in a lab1.md file in your
   2. Please read Eric Raymond's article [Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html) How to ask the question The Smart Way . 
     - Do you have more suggestions for How To Answer Questions in a Helpful Way (from your past experience) http://www.catb.org/esr/faqs/smart-questions.html#idp64834912 
     - List at least two.
-
-d. Linux 
+d. Please read chapter 3 of Free Culture http://www.free-culture.cc/freeculture.pdf
+  1. Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
+  
+e. Linux 
   1. Boot linux (Ubuntu) through a USB (Or dual boot)
     - Get familiar with the directory structure.
     - Practice with ls, cd, mkdir, chmod commands - when in doubt search the web to find the answer.
@@ -37,7 +39,7 @@ d. Linux
     - `man tree`
     - Take a screenshot and add to `lab1.md`
 
-e. Regex
+f. Regex
   1. In your Foundations of Computer Science class you learned about Regular expressions. (If you have not taken Foundations of Computer Science class, please talk to the instructor for an explanation)  
   2. Please do all the practice problems given [here](http://regexone.com/) (moving over Interactive Tutorial in the top right corner will get this). 
     - To get full credit, do at least 7 problems.
@@ -47,13 +49,13 @@ e. Regex
     - Take a screenshot and add to `lab1.md`
 
 
-f. Play with [Snap](http://snap.berkeley.edu/) or [CSDT](https://community.csdt.rpi.edu/) or
+g. Play with [Snap](http://snap.berkeley.edu/) or [CSDT](https://community.csdt.rpi.edu/) or
 [Blockly](https://blockly-games.appspot.com/) 
   1. Create some thing using either of the first two or solve [this](https://blockly-games.appspot.com/maze?lang=en&level=10&skin=0) using blockly
   2. Add to `lab1.md`
 
 
-g. Reflection
+h. Reflection
  1. Start thinking/finding a problem/project that interests you 
  2. Write a paragraph how you are doing this activity.
  3. Add to `lab1.md`
