@@ -22,7 +22,7 @@ c. Reading assignments - make sure to reflect on these in a lab1.md file in your
   2. Please read Eric Raymond's article [Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html) How to ask the question The Smart Way . 
     - Do you have more suggestions for How To Answer Questions in a Helpful Way (from your past experience) http://www.catb.org/esr/faqs/smart-questions.html#idp64834912 
     - List at least two.
- 3. Please read chapter 3 of Free Culture http://www.free-culture.cc/freeculture.pdf
+  3. Please read chapter 3 of Free Culture http://www.free-culture.cc/freeculture.pdf
    - Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
   
 d. Linux 
