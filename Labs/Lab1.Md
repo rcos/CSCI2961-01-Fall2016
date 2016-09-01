@@ -14,7 +14,7 @@ c. Create a repository under your Github account for all your lab work.
 
 b. Create a bio page in your repository titled `bio.md`
   1. Please have your name and a photo in the markdown page . [Here is a sample page](https://github.com/mskmoorthy/Doc-ex1/blob/master/lab-1-sample.Md) 
-  2. You can copy and paste screen shots. 
+  2. You can copy and paste screen shots. Please add your github id and your slack handle
 
 c. Reading assignments - make sure to reflect on these in a lab1.md file in your repository 
   1. Please read the 10 criteria of Open Source Definition http://opensource.org/osd and understand why they are important.
