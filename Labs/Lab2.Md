@@ -24,7 +24,7 @@ Microsoft [.NET Core uses MIT license]( https://github.com/dotnet/coreclr ), Sai
 
 7.  Create a repository and [choose a license](https://github.com/blog/1530-choosing-an-open-source-license)
 
-8.  Take 5 projects from [Observatory](http://rcos.io) - create a table which project has which license. for example:
+8.  Take 5 projects from [Observatory](http://rcos.io/projects) or [past RCOS Projects](https://rcos.io/projects/past) - create a table which project has which license. for example:
 
 Website | License Present | License
 ---------|:----------|:-------
