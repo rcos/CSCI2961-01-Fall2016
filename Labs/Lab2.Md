@@ -20,7 +20,7 @@ Microsoft [.NET Core uses MIT license]( https://github.com/dotnet/coreclr ), Sai
 
 6.  Think of an example project. Pick a license (as a group) using the [LICENSE chooser by Github](http://choosealicense.com/).
 
-7.  Read these licenses  GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use [tldrlegal](https://tldrlegal.com/license/)
+7.  Read these licenses  GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good - write 5 to 10 sentences. You may use [tldrlegal](https://tldrlegal.com/licenses/browse)
 
 8.  Create a repository and [choose a license](https://github.com/blog/1530-choosing-an-open-source-license)
   
