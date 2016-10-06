@@ -1,5 +1,7 @@
 Besides the reading materials mentioned in lecture slides and home works, here are some additional reading materials.
 
+-  Lecture Slides (9/23/2016) of Prof. Ron Eglash may be found here https://docs.google.com/presentation/d/1LEp2qXTkbPWg0x3zHZSiHhLdLkphj-jWcQNMsM8Vd_I/edit#slide=id.p4
+
 - A good place to know the difference between Free Software and Open Software http://askubuntu.com/questions/78958/is-there-a-difference-between-free-software-and-open-source-software
 
 - Andy Orem and Greg Wilson (ed) Beautiful Code https://github.com/onestraw/ebook/blob/master/09_other/%E4%BB%A3%E7%A0%81%E4%B9%8B%E7%BE%8EBeautiful%20Code.pdf
