@@ -1,4 +1,4 @@
-## Lab 7 - Scientific Computation 3/25/2016
+## Lab 7 - Scientific Computation 10/14/2016
 
 - One/Two page slide presentation of your project and post your slide in RCOS class channel #csci2963-01 
 - Graphs and Networks are ubiquitous in Scientific Computations. Networkx is an open source python package located here https://networkx.github.io/
