@@ -1,4 +1,4 @@
-## Lab 10 Spring 2016 11/4/2016 Open Hardware
+## Lab 10 Spring 2016 11/11/2016 Open Hardware
 
 # Open Hardware Lab
 https://docs.google.com/document/d/1LdXr98Gc_7M-NYLwLmZAB_QimCZpCATgetdcRvzvSUw/edit?usp=sharing
