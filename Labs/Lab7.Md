@@ -3,7 +3,7 @@
 - One/Two page slide presentation of your project and post your slide in RCOS class channel #csci2963-01 
 - Graphs and Networks are ubiquitous in Scientific Computations. Networkx is an open source python package located here https://networkx.github.io/
 
-- A nice tutorial may be found in https://networkx.github.io/documentation/latest/_downloads/networkx_tutorial.pdf
+- A nice tutorial may be found in http://networkx.readthedocs.io/en/networkx-1.10/tutorial/index.html
 
 - Your task for this class is to use networkx to do graph theoretic/network computations.
 
