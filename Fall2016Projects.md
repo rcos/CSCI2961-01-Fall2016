@@ -49,7 +49,7 @@
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
-- **FLIGHTonight:** (continued from fall 2015) Ying Guo, Yiyan Xu, Xinyue Yan
+- **FLIGHTonight:**  Ying Guo, Yiyan Xu, Xinyue Yan
   - **Pitch Slides** https://docs.google.com/presentation/d/1oIFWBNNsGzhpYEPCjkIsavW34PQYeb0Efujlm4yCPhQ/edit#slide=id.p
   - **Date for Presentation **
   - **Presentation Slides** 
