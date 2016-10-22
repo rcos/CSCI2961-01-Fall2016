@@ -79,7 +79,7 @@
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
- **Heavy Look A Window Explorers Edition:**  Ronald Law 
+- **Heavy Look A Window Explorers Edition:**  Ronald Law 
   - **Pitch Slides** https://docs.google.com/presentation/d/13ENYzGtbxpRxzrQTBy6_OppgPF_wJla24alDsKAhoJ0/edit#slide=id.gd9c453428_0_16
   - **Date for Presentation **
   - **Presentation Slides** 
