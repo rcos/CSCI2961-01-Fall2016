@@ -73,9 +73,15 @@
   - **Presentation Slides** 
   -  **Repository** 
   -  **Blog** 
-- **Algorithm Club:** Christian Encarnacion, Ashwin Raghuraman, Steven Scally and Jayson Tung =
-  - **Pitch Slides** https://docs.google.com/presentation/d/1kgSteDsO2EGiOKYC_Hja_Bau7f8OJvt8jQUcqNL441Y/edit#slide=id.p
-  - **Date for Presentation 5/6**
-  - **Presentation Slides** https://docs.google.com/presentation/d/1vr8LS22Rj_4NR0yQ3jbX_HV0xqZsTIgLoTUlhCc3ePE/edit#slide=id.p
-  - **Repository** https://github.com/axptwig/swift-algorithm-club
-  - **Blog** https://rcos.io/projects/axptwig/swift-algorithm-club/blog
+- **HooverZoom:** (External Project) Sean Maltby, Ben Gruber and Chris George 
+  - **Pitch Slides** https://drive.google.com/open?id=0B3AxVWEWY1u0Z3R6eXI3bWFWblk
+  - **Date for Presentation **
+  - **Presentation Slides** 
+  - **Repository** 
+  - **Blog** 
+ **Heavy Look A Window Explorers Edition:**  Ronald Law 
+  - **Pitch Slides** https://docs.google.com/presentation/d/13ENYzGtbxpRxzrQTBy6_OppgPF_wJla24alDsKAhoJ0/edit#slide=id.gd9c453428_0_16
+  - **Date for Presentation **
+  - **Presentation Slides** 
+  - **Repository** 
+  - **Blog** 
