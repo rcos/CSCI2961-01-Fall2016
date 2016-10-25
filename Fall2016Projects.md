@@ -1,14 +1,14 @@
 # Fall 2016 Projects 
 ### Pitch Slides were presented for Introduction to Open Source Software (10/21/2016) 
 
-- **Sympy:** (External Project) Hassan Alshehri
+- **Sympy:** (External Project) Hassan Alshehri - Mentor Matthew Mawby
   - **Pitch Slides** https://docs.google.com/presentation/d/1avqOwvsmmOHm2v25HmAIigLUlunffFRLNCWByi3xgpA/edit#slide=id.p
   - **Mentor** Matthew Mawby
   - **Date for Presentation  **
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
-- **ChestShopPro:** (External Project) Yitong (Frank) Wu
+- **ChestShopPro:** (External Project) Yitong (Frank) Wu - Mentor Matthew Mawby
   - **Pitch Slides** https://docs.google.com/presentation/d/1-K_qdqqFRkC4L-HJtkekHTFwTJ_z-P1KeAdHJL7m7rU/edit#slide=id.p
   - **Mentor** Matthew Mawby
   - **Date for Presentation **
@@ -21,27 +21,27 @@
   - **Presentation Slides**
   - **Repository** 
   - **Blog** 
-- **gnuber:** Lucien Brulé, John Caicedo, Max Wang
+- **gnuber:** Lucien Brulé, John Caicedo, Max Wang - Mentor Adeet Phanse
   - **Pitch Slides** https://docs.google.com/presentation/d/1ibFarzAWY9APRNb1MWWV0_IX5joMIZAeUkUD4IsAH-E/edit#slide=id.gd9c453428_0_16
   - **Date for Presentation **
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
-- **LMS Grabber:** Craig Slegel
+- **LMS Grabber:** Craig Slegel - Mentor Matthew Mawby
   - **Pitch Slides** https://docs.google.com/presentation/d/1j2tl1zpjSl48C6spo9_g4BiO0aXTwVyJuaHDtdNpAJ4/edit#slide=id.p
   - **Mentor** Matthew Mawby
   - **Date for Presentation **
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
-- **CAPP Reporter** Ethan Fox, TJ Passaro, Zach Wimer
+- **CAPP Reporter** Ethan Fox, TJ Passaro, Zach Wimer - Mentor Sean Waclawik
   - **Pitch Slides** https://docs.google.com/presentation/d/1j0bTSQpmIW1rQMnfz8zSAiCTfebzUqg2N4Z9gilK_5s/edit#slide=id.p
   - **Mentor** Sean Waclawik
   - **Date for Presentation **
   - **Presentation Slides** 
   - **Repository** https://github.com/foxe2/CAPP-Reporter
   - **Blog** 
-- **Help Desk Time Card:** Albert Shin, Justin Carlson, Lucas Notarangelo 
+- **Help Desk Time Card:** Albert Shin, Justin Carlson, Lucas Notarangelo - Mentor Adeet Phanse
   - **Pitch Slides** https://docs.google.com/presentation/d/1rmT_0uOzC28oyGvqp9fbDjiM_YFyFm_8EueIq129Dxk/edit#slide=id.g1389d3c552_0_143
   - **Date for Presentation **
   - **Presentation Slides** 
@@ -53,14 +53,14 @@
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
-- **FLIGHTonight:**  Ying Guo, Yiyan Xu, Xinyue Yan
+- **FLIGHTonight:**  Ying Guo, Yiyan Xu, Xinyue Yan - Mentor Sean Waclawik
   - **Pitch Slides** https://docs.google.com/presentation/d/1oIFWBNNsGzhpYEPCjkIsavW34PQYeb0Efujlm4yCPhQ/edit#slide=id.p
   - **Mentor** Sean Waclawik
   - **Date for Presentation **
   - **Presentation Slides** 
   - **Repository** 
   - **Blog**
-- **WeatherBot:** Nick Sirano, Ruowen Qin
+- **WeatherBot:** Nick Sirano, Ruowen Qin - Mentor Sean Waclawik
   - **Pitch Slides** https://docs.google.com/presentation/d/1d20ZRyCcwkWvFNCh1HcROrYyd3kuR6KlKr4YKEOOD1E/edit#slide=id.p
   - **Mentor** Sean Waclawik
   - **Date for Presentation **
@@ -79,7 +79,7 @@
   - **Presentation Slides** 
   -  **Repository** 
   -  **Blog** 
-- **HooverZoom:** (External Project) Sean Maltby, Ben Gruber and Chris George 
+- **HooverZoom:** (External Project) Sean Maltby, Ben Gruber and Chris George - Mentor Adeet Phanse
   - **Pitch Slides** https://drive.google.com/open?id=0B3AxVWEWY1u0Z3R6eXI3bWFWblk
   - **Date for Presentation **
   - **Presentation Slides** 
