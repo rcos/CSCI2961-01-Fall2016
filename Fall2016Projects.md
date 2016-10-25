@@ -3,12 +3,14 @@
 
 - **Sympy:** (External Project) Hassan Alshehri
   - **Pitch Slides** https://docs.google.com/presentation/d/1avqOwvsmmOHm2v25HmAIigLUlunffFRLNCWByi3xgpA/edit#slide=id.p
+  - **Mentor** Matthew Mawby
   - **Date for Presentation  **
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
 - **ChestShopPro:** (External Project) Yitong (Frank) Wu
   - **Pitch Slides** https://docs.google.com/presentation/d/1-K_qdqqFRkC4L-HJtkekHTFwTJ_z-P1KeAdHJL7m7rU/edit#slide=id.p
+  - **Mentor** Matthew Mawby
   - **Date for Presentation **
   - **Presentation Slides** 
   - **Repository** 
@@ -27,12 +29,14 @@
   - **Blog** 
 - **LMS Grabber:** Craig Slegel
   - **Pitch Slides** https://docs.google.com/presentation/d/1j2tl1zpjSl48C6spo9_g4BiO0aXTwVyJuaHDtdNpAJ4/edit#slide=id.p
+  - **Mentor** Matthew Mawby
   - **Date for Presentation **
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
 - **CAPP Reporter** Ethan Fox, TJ Passaro, Zach Wimer
   - **Pitch Slides** https://docs.google.com/presentation/d/1j0bTSQpmIW1rQMnfz8zSAiCTfebzUqg2N4Z9gilK_5s/edit#slide=id.p
+  - **Mentor** Sean Waclawik
   - **Date for Presentation **
   - **Presentation Slides** 
   - **Repository** https://github.com/foxe2/CAPP-Reporter
@@ -51,12 +55,14 @@
   - **Blog** 
 - **FLIGHTonight:**  Ying Guo, Yiyan Xu, Xinyue Yan
   - **Pitch Slides** https://docs.google.com/presentation/d/1oIFWBNNsGzhpYEPCjkIsavW34PQYeb0Efujlm4yCPhQ/edit#slide=id.p
+  - **Mentor** Sean Waclawik
   - **Date for Presentation **
   - **Presentation Slides** 
   - **Repository** 
   - **Blog**
 - **WeatherBot:** Nick Sirano, Ruowen Qin
   - **Pitch Slides** https://docs.google.com/presentation/d/1d20ZRyCcwkWvFNCh1HcROrYyd3kuR6KlKr4YKEOOD1E/edit#slide=id.p
+  - **Mentor** Sean Waclawik
   - **Date for Presentation **
   - **Presentation Slides**
   - **Repository** 
@@ -85,7 +91,7 @@
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
- - **Relax**  (External Project - Also worked on Last Spring 2016 Semester) Shane Demskie
+- **Relax**  (External Project - Also worked on Last Spring 2016 Semester) Shane Demskie
   - **Pitch Slides** https://docs.google.com/presentation/d/1DZDgAEbPq5hVMuaGEUChAejdztzinW-eOq4qi0BwyDI/edit#slide=id.p
   - **Date for Presentation **
   - **Presentation Slides** 
