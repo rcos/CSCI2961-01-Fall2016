@@ -106,3 +106,10 @@
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
+- **WeatherBot**  Nick Sirano, Ruowen Qin
+  - **Pitch Slides** https://docs.google.com/presentation/d/1d20ZRyCcwkWvFNCh1HcROrYyd3kuR6KlKr4YKEOOD1E/edit#slide=id.p
+  - **Mentor** Moorthy
+  - **Date for Presentation **
+  - **Presentation Slides** 
+  - **Repository** 
+  - **Blog** 
