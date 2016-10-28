@@ -99,14 +99,14 @@
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
-- **Relax**  (External Project - Also worked on Last Spring 2016 Semester) Shane Demskie
+- **Relax**  (External Project - Also worked on Last Spring 2016 Semester) Shane Demskie (10/28/2016)
   - **Pitch Slides** https://docs.google.com/presentation/d/1DZDgAEbPq5hVMuaGEUChAejdztzinW-eOq4qi0BwyDI/edit#slide=id.p
   - **Mentor** Moorthy
   - **Date for Presentation **
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
-- **DD - A Ride Sharing App for Students**  Avi Singh
+- **DD - A Ride Sharing App for Students**  Avi Singh (10/28/2016)
    - **Pitch Slides** https://docs.google.com/presentation/d/1xSao8wujT9CuaUK9bxqnGx5U_WAJQKy8l8mZL8LxDcY/edit#slide=id.p
   - **Mentor** Moorthy
   - **Date for Presentation **
