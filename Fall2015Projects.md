@@ -12,7 +12,7 @@
   - Blog https://rcos.io/projects/Nberton/Rocket.Chat/blog
   - Presentation https://docs.google.com/presentation/d/1wBz67Qv06vbzP5yasfQa4MhPs05iNTEoNDjaPyZGLdI/edit#slide=id.gdafe7da28_2_56
   
-3) Open Java Script White Board - Ryan Sherman Oscar Pullan and Ian Huntree
+3) Open Java Script White Board - Ryan Sherman Oscar Pullan and Ian Huntress
   - Profile https://rcos.io/projects/IanHuntress/OpenJavascriptWhiteboard/profile
   - Repository https://github.com/IanHuntress/draw
   - Blog https://rcos.io/projects/IanHuntress/OpenJavascriptWhiteboard/blog
