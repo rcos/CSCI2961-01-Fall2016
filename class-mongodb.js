@@ -123,7 +123,7 @@ WriteResult({
 WriteResult({ "nMatched" : 3, "nUpserted" : 0, "nModified" : 3 })
 >
 >
-> db.inventory.find(){ "_id" : ObjectId("5703ef7171004779c9d67782"), "numLegs" : 2 }
+> db.inventory.find({ "_id" : ObjectId("5703ef7171004779c9d67782"), "numLegs" : 2 })
 { "_id" : ObjectId("5703ef9571004779c9d67783"), "numLegs" : 2 }
 { "_id" : ObjectId("5703efaf71004779c9d67784"), "numLegs" : 2 }
 { "_id" : ObjectId("5703efb071004779c9d67785"), "numLegs" : 4 }

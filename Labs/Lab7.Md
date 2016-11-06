@@ -17,7 +17,7 @@ sudo apt-get install python-networkx python-matplotlib
 
 ```
 
-- Investigate networkx using examples in https://networkx.github.io/documentation/latest/_downloads/networkx_tutorial.pdf (use this as a reference as you continue)
+- Investigate networkx using examples in http://networkx.readthedocs.io/en/networkx-1.11/reference/introduction.html  , http://networkx.readthedocs.io/en/networkx-1.11/examples/  and http://networkx.readthedocs.io/en/networkx-1.11/reference/index.html(use this as a reference as you continue)
 
 - Stanford Graphbase is a book written by Prof. Donald Knuth and contains many interesting examples on graph algorithms and implementations of programs (written in literate programming style). [Here is an abstract of that book](http://tex.loria.fr/sgb/abstract.pdf) - [Dr. Goldschmidt Master's thesis](http://www.cs.rpi.edu/research/groups/pb/jgb/Masters.pdf) is a Java implementation.  These problems are also implemented in networkx.
 
