@@ -22,3 +22,9 @@ Lab 10 - 4/15/2016 - Open Hardware Lab
 
 Lab 10 - 4/15/2016 - Open Hardware Lab
 ![UTS helping out](https://github.com/rcos/CSCI2963-01/blob/master/Photos/lab10-15.jpg)
+
+Lecture - 11/8/2016 - Open Hardware 
+![Photo1](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Photos/OpenSourceHardwareLecture.jpg)
+
+Lecture - 11/8/2016 - Open Hardware
+![Photo2](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Photos/OpenSourceHardwareLecture2.jpg)
