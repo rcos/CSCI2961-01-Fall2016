@@ -1,5 +1,3 @@
-
-
 Lecture - 11/8/2016 - Open Hardware 
 ![Photo1](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Photos/OpenSourceHardwareLecture.JPG)
 
