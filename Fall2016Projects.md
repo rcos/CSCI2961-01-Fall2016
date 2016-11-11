@@ -92,11 +92,11 @@
 - **Weird Side of YouTube:** (RCOS Project) YoungChul Chun
   - **Pitch Slides** https://docs.google.com/presentation/d/14Jojg8lQ4snVQjEp9IMmBuByENOvDIcMtIBfKkw2plo/edit#slide=id.p
   - **Mentor** Moorthy
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/profile
   - **Date for Presentation**
   - **Presentation Slides** 
-  -  **Repository** 
-  -  **Blog** 
+  - **Repository** https://github.com/mmetro/WeirdSideofYouTube
+  - **Blog** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/blog
 - **HooverZoom:** (External Project) Sean Maltby, Ben Gruber and Chris George 
   - **Pitch Slides** https://drive.google.com/open?id=0B3AxVWEWY1u0Z3R6eXI3bWFWblk
   - **Mentor** Adeet Phanse
@@ -122,7 +122,7 @@
   - **Repository** https://github.com/demsks/relax
   - **Blog** https://rcos.io/projects/demsks/relax/blog
 - **DD - A Ride Sharing App for Students**  Avi Singh (10/28/2016)
-   - **Pitch Slides** https://docs.google.com/presentation/d/1xSao8wujT9CuaUK9bxqnGx5U_WAJQKy8l8mZL8LxDcY/edit#slide=id.p
+  - **Pitch Slides** https://docs.google.com/presentation/d/1xSao8wujT9CuaUK9bxqnGx5U_WAJQKy8l8mZL8LxDcY/edit#slide=id.p
   - **Mentor** Moorthy
   - **Dashboard**
   - **Date for Presentation**
