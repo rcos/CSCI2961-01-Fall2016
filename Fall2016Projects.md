@@ -20,11 +20,11 @@
 - **Extensible Text Editor:** Michael Metrocavich 
   - **Pitch Slides** https://docs.google.com/presentation/d/14avrLrv2spXzaRnFZAl-59HUeKd5mBW3vTusC1YMIDs/edit#slide=id.p
   - **Mentor** Moorthy
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/projects/mmetro/texteditor/profile
   - **Date for Presentation**
   - **Presentation Slides**
-  - **Repository** 
-  - **Blog** 
+  - **Repository** https://github.com/mmetro/texteditor
+  - **Blog** https://rcos.io/projects/mmetro/texteditor/blog
 - **gnuber:** Lucien Brulé, John Caicedo, Max Wang 
   - **Pitch Slides** https://docs.google.com/presentation/d/1ibFarzAWY9APRNb1MWWV0_IX5joMIZAeUkUD4IsAH-E/edit#slide=id.gd9c453428_0_16
   - **Mentor** Adeet Phanse
@@ -44,11 +44,11 @@
 - **CAPP Reporter** Ethan Fox, TJ Passaro, Zach Wimer 
   - **Pitch Slides** https://docs.google.com/presentation/d/1j0bTSQpmIW1rQMnfz8zSAiCTfebzUqg2N4Z9gilK_5s/edit#slide=id.p
   - **Mentor** Sean Waclawik
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/projects/foxe2/capp-reporter/profile
   - **Date for Presentation **
   - **Presentation Slides** 
   - **Repository** https://github.com/foxe2/CAPP-Reporter
-  - **Blog** 
+  - **Blog** https://rcos.io/projects/foxe2/capp-reporter/blog
 - **Help Desk Time Card:** Albert Shin, Justin Carlson, Lucas Notarangelo - Mentor Adeet Phanse
   - **Pitch Slides** https://docs.google.com/presentation/d/1rmT_0uOzC28oyGvqp9fbDjiM_YFyFm_8EueIq129Dxk/edit#slide=id.g1389d3c552_0_143
   - **Mentor** Moorthy
