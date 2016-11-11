@@ -148,3 +148,7 @@ And if we called it again:
 ```
 
 Hint: Look at MongoDB documentation for $push
+
+## Checkpoint 6: Project Updates
+Please complete the steps in the following file - 
+https://github.com/CSCI2961-01-Fall2016/blob/master/Labs/ProjectCheckpoint.md
