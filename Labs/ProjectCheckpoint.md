@@ -14,3 +14,5 @@ Starting next Monday you should be updating the blog with one post per week pers
 
 Also on November 21st you should make a one slide presentation containing a progress report on your project so far.
 
+Check this file to make sure everything is up to date - 
+https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Fall2016Projects.md
