@@ -14,4 +14,4 @@ Lab - 11/11/2016 - Open Hardware
 ![Lab3](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Photos/OpenSourceHardwareLab3.JPG)
 
 Lab - 11/11/2016 - Open Hardware
-![Lab4](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Photos/OpenSourceHardwareLab4.JPG)a
+![Lab4](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Photos/OpenSourceHardwareLab4.JPG)
