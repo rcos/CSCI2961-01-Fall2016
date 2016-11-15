@@ -60,11 +60,11 @@
 - **MineBot v2:** (continued from Spring 2016) Michael Duncan 
   - **Pitch Slides** https://docs.google.com/presentation/d/15Zx6DyOm4VerbV0yRQ1NKjoacn1enwTTBgLFA0bKTmY/edit#slide=id.p
   - **Mentor** Moorthy
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/projects/mkd93/minebot-v2/profile
   - **Date for Presentation **
   - **Presentation Slides** 
-  - **Repository** 
-  - **Blog** 
+  - **Repository** https://github.com/mkd93/minebot-v2
+  - **Blog**  https://rcos.io/projects/mkd93/minebot-v2/blog
 - **FLIGHTonight:**  Ying Guo, Yiyan Xu, Xinyue Yan 
   - **Pitch Slides** https://docs.google.com/presentation/d/1oIFWBNNsGzhpYEPCjkIsavW34PQYeb0Efujlm4yCPhQ/edit#slide=id.p
   - **Mentor** Sean Waclawik
