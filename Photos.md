@@ -15,3 +15,12 @@ Lab - 11/11/2016 - Open Hardware
 
 Lab - 11/11/2016 - Open Hardware
 ![Lab4](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Photos/OpenSourceHardwareLab4.JPG)
+
+Lab - 11/15/2016 - MongoDB
+![MongoDBLab1](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Photos/MongoDBLab1.JPG)
+
+Lab - 11/15/2016 - MongoDB
+![MongoDBLab2](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Photos/MongoDBLab2.JPG)
+
+Lab - 11/15/2016 - MongoDB
+![MongoDBLab3](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Photos/MongoDBLab3.JPG)
