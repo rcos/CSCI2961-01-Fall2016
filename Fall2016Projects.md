@@ -76,11 +76,11 @@
 - **WeatherBot:** Nick Sirano, Ruowen Qin
   - **Pitch Slides** https://docs.google.com/presentation/d/1d20ZRyCcwkWvFNCh1HcROrYyd3kuR6KlKr4YKEOOD1E/edit#slide=id.p
   - **Mentor** Sean Waclawik
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/projects/chinrw/weatherbot/profile
   - **Date for Presentation**
-  - **Presentation Slides**
-  - **Repository** 
-  - **Blog** 
+  - **Presentation Slides** 
+  - **Repository** https://github.com/chinrw/WeatherBot
+  - **Blog** https://rcos.io/projects/chinrw/weatherbot/blog
 - **iOS GeoCommerce:** Ranjit Marathay
   - **Pitch Slides** https://docs.google.com/presentation/d/15Xva3CoWGfksQZwuZu6vYHeMm6OfP-A9j_QbzArHup0/edit#slide=id.p
   - **Mentor** Moorthy
