@@ -60,11 +60,11 @@
 - **MineBot v2:** (continued from Spring 2016) Michael Duncan 
   - **Pitch Slides** https://docs.google.com/presentation/d/15Zx6DyOm4VerbV0yRQ1NKjoacn1enwTTBgLFA0bKTmY/edit#slide=id.p
   - **Mentor** Moorthy
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/projects/mkd93/minebot-v2/profile
   - **Date for Presentation **
   - **Presentation Slides** 
-  - **Repository** 
-  - **Blog** 
+  - **Repository** https://github.com/mkd93/minebot-v2
+  - **Blog**  https://rcos.io/projects/mkd93/minebot-v2/blog
 - **FLIGHTonight:**  Ying Guo, Yiyan Xu, Xinyue Yan 
   - **Pitch Slides** https://docs.google.com/presentation/d/1oIFWBNNsGzhpYEPCjkIsavW34PQYeb0Efujlm4yCPhQ/edit#slide=id.p
   - **Mentor** Sean Waclawik
@@ -76,11 +76,11 @@
 - **WeatherBot:** Nick Sirano, Ruowen Qin
   - **Pitch Slides** https://docs.google.com/presentation/d/1d20ZRyCcwkWvFNCh1HcROrYyd3kuR6KlKr4YKEOOD1E/edit#slide=id.p
   - **Mentor** Sean Waclawik
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/projects/chinrw/weatherbot/profile
   - **Date for Presentation**
-  - **Presentation Slides**
-  - **Repository** 
-  - **Blog** 
+  - **Presentation Slides** 
+  - **Repository** https://github.com/chinrw/WeatherBot
+  - **Blog** https://rcos.io/projects/chinrw/weatherbot/blog
 - **iOS GeoCommerce:** Ranjit Marathay
   - **Pitch Slides** https://docs.google.com/presentation/d/15Xva3CoWGfksQZwuZu6vYHeMm6OfP-A9j_QbzArHup0/edit#slide=id.p
   - **Mentor** Moorthy
@@ -132,9 +132,9 @@
 - **RelLink**  Kasi Chonpimai (11/11/2016)
   - **Pitch Slides** https://docs.google.com/presentation/d/11UTMj7Rm-qdbHeZJl5BbY2jelLFjJd5l4sukudNwpuA/edit#slide=id.gd9c453428_0_16
   - **Mentor** Moorthy
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/projects/rellink/knowledge-api/profile
   - **Date for Presentation**
   - **Presentation Slides** 
-  - **Repository** https://github.com/rellink
-  - **Blog** 
+  - **Repository** https://github.com/rellink/knowledge-api
+  - **Blog** https://rcos.io/projects/rellink/knowledge-api/blog
 
