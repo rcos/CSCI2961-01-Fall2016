@@ -14,7 +14,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1-K_qdqqFRkC4L-HJtkekHTFwTJ_z-P1KeAdHJL7m7rU/edit#slide=id.p
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/connection-lost/chestshoppro/profile
-  - **Progress Update Presentation Slides**
+  - **Progress Update Presentation Slides** (youtube) https://www.youtube.com/watch?v=jtKRay8S9HY
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/connection-lost/chestshoppro
