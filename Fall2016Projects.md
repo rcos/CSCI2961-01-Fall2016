@@ -15,7 +15,7 @@
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/connection-lost/chestshoppro/profile
   - **Progress Update Presentation Slides**
-  - **Date for Presentation **
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/connection-lost/chestshoppro
   - **Blog** https://rcos.io/projects/connection-lost/chestshoppro/blog
@@ -42,7 +42,7 @@
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/slegec/lms_grabber/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1-BbTabatUFGdLqMo0l12jcweonBs2QEQpgQ3W3pyEmQ/edit
-  - **Date for Presentation **
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/slegec/lms_grabber
   - **Blog** https://rcos.io/projects/slegec/lms_grabber/blog
@@ -51,7 +51,7 @@
   - **Mentor** Sean Waclawik
   - **Dashboard** https://rcos.io/projects/foxe2/capp-reporter/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1WavwDWTKdcwhMeTtqXsHzcrFDo5mUOlVAqXzMv66T_Y/edit
-  - **Date for Presentation **
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/foxe2/CAPP-Reporter
   - **Blog** https://rcos.io/projects/foxe2/capp-reporter/blog
@@ -69,7 +69,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/mkd93/minebot-v2/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1xNK3xEyi9EZUNaqjzSuIYnN5aWtap_V-Or85aS9nEU8/edit#slide=id.g193ab1ea0d_2_225
-  - **Date for Presentation **
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/mkd93/minebot-v2
   - **Blog**  https://rcos.io/projects/mkd93/minebot-v2/blog
@@ -113,7 +113,7 @@
   - **Mentor** Adeet Phanse
   - **Dashboard** https://rcos.io/projects/extesy/hoverzoom/profile
   - **Progress Update Presentation Slides** https://slack-files.com/files-pri-safe/T033VT1N8-F35TXUEP7/presentation_update.pdf?c=1479834538-b5739edb419af17f3ff7d0ca2a8797319f42996c
-  - **Date for Presentation **
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/extesy/hoverzoom
   - **Blog** https://rcos.io/projects/extesy/hoverzoom/blog
@@ -122,7 +122,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/lawron/heavylook/profile
   - **Progress Update Presentation Slides**
-  - **Date for Presentation **
+  - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/lawron/heavylook
   - **Blog** https://rcos.io/projects/lawron/heavylook/blog
