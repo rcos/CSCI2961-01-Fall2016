@@ -55,7 +55,7 @@
   - **Presentation Slides** 
   - **Repository** https://github.com/foxe2/CAPP-Reporter
   - **Blog** https://rcos.io/projects/foxe2/capp-reporter/blog
-- **Help Desk Time Card:** Albert Shin, Justin Carlson, Lucas Notarangelo - Mentor Adeet Phanse
+- **Help Desk Time Card:** Albert Shin, Justin Carlson, Lucas Notarangelo
   - **Pitch Slides** https://docs.google.com/presentation/d/1rmT_0uOzC28oyGvqp9fbDjiM_YFyFm_8EueIq129Dxk/edit#slide=id.g1389d3c552_0_143
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/vcc-helpdesk/timecard/profile
