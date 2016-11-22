@@ -103,7 +103,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/14Jojg8lQ4snVQjEp9IMmBuByENOvDIcMtIBfKkw2plo/edit#slide=id.p
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/profile
-  - **Progress Update Presentation Slides**
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/14DVSne3XbU-ophfxiHVf3MFiyofGqwRCgF4FzhdBmo8/edit#slide=id.p
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/mmetro/WeirdSideofYouTube
