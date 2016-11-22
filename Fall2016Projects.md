@@ -85,7 +85,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1d20ZRyCcwkWvFNCh1HcROrYyd3kuR6KlKr4YKEOOD1E/edit#slide=id.p
   - **Mentor** Sean Waclawik
   - **Dashboard** https://rcos.io/projects/chinrw/weatherbot/profile
-  - **Progress Update Presentation Slides**
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/13IHf-5PtdwihmLoaCCWeA0e42OruUxlu62-Ki_PwMDk/edit#slide=id.p
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/chinrw/WeatherBot
