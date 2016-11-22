@@ -10,7 +10,7 @@
   - **Presentation Slides** 
   - **Repository** https://github.com/alsheh/sympy
   - **Blog** https://rcos.io/projects/alsheh/sympy/blog
-  - **ChestShopPro:** (External Project) Yitong (Frank) Wu 
+- **ChestShopPro:** (External Project) Yitong (Frank) Wu 
   - **Pitch Slides** https://docs.google.com/presentation/d/1-K_qdqqFRkC4L-HJtkekHTFwTJ_z-P1KeAdHJL7m7rU/edit#slide=id.p
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/connection-lost/chestshoppro/profile
@@ -77,6 +77,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1oIFWBNNsGzhpYEPCjkIsavW34PQYeb0Efujlm4yCPhQ/edit#slide=id.p
   - **Mentor** Sean Waclawik
   - **Dashboard** https://rcos.io/projects/yanx611/flightonight/profile
+  - **Progress Update Presentation Slides**
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/yanx611/flightonight
