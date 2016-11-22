@@ -28,11 +28,11 @@
 - **gnuber:** Lucien Brulé, John Caicedo, Max Wang 
   - **Pitch Slides** https://docs.google.com/presentation/d/1ibFarzAWY9APRNb1MWWV0_IX5joMIZAeUkUD4IsAH-E/edit#slide=id.gd9c453428_0_16
   - **Mentor** Adeet Phanse
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/projects/wtg/shuttle-signups/profile
   - **Date for Presentation**
-  - **Presentation Slides** 
-  - **Repository** 
-  - **Blog** 
+  - **Presentation Slides**
+  - **Repository**  https://github.com/wtg/shuttle-signup
+  - **Blog** https://rcos.io/projects/wtg/shuttle-signups/blog
 - **LMS Grabber:** Craig Slegel 
   - **Pitch Slides** https://docs.google.com/presentation/d/1j2tl1zpjSl48C6spo9_g4BiO0aXTwVyJuaHDtdNpAJ4/edit#slide=id.p
   - **Mentor** Matthew Mawby
