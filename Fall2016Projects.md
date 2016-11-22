@@ -77,7 +77,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1oIFWBNNsGzhpYEPCjkIsavW34PQYeb0Efujlm4yCPhQ/edit#slide=id.p
   - **Mentor** Sean Waclawik
   - **Dashboard** https://rcos.io/projects/yanx611/flightonight/profile
-  - **Progress Update Presentation Slides**
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1rDwdNi5osTbSu1BHvQ6_5UT2O9Wqjo6ygEo6k1F7G7g/edit
   - **Date for Presentation**
   - **Presentation Slides** 
   - **Repository** https://github.com/yanx611/flightonight
