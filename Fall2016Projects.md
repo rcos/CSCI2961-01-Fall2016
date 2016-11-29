@@ -151,7 +151,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/rellink/knowledge-api/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/17h-DvAoSN9iTERVB_Jmf2mlBj8_ie_85qqpXuwIUGL4/edit
-  - **Date for Presentation**
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/rellink/knowledge-api
   - **Blog** https://rcos.io/projects/rellink/knowledge-api/blog
