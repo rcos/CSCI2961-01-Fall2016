@@ -16,7 +16,7 @@
   - **Dashboard** https://rcos.io/projects/connection-lost/chestshoppro/profile
   - **Progress Update Presentation Slides** (youtube) https://www.youtube.com/watch?v=jtKRay8S9HY
   - **Date for Presentation**
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1wx1HXKHfUcLUAgoxF66v4yFQ1-NKbCyGSbBFv4aE0eY/edit#slide=id.g138a99816c_1_5
   - **Repository** https://github.com/connection-lost/chestshoppro
   - **Blog** https://rcos.io/projects/connection-lost/chestshoppro/blog
 - **Extensible Text Editor:** Michael Metrocavich 
