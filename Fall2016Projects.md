@@ -110,7 +110,7 @@
   - **Presentation Slides** 
   - **Repository** https://github.com/mmetro/WeirdSideofYouTube
   - **Blog** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/blog
-- **HooverZoom:** (External Project) Sean Maltby, Ben Gruber and Chris George 
+- **HoverZoom:** (External Project) Sean Maltby, Ben Gruber and Chris George 
   - **Pitch Slides** https://drive.google.com/open?id=0B3AxVWEWY1u0Z3R6eXI3bWFWblk
   - **Mentor** Adeet Phanse
   - **Dashboard** https://rcos.io/projects/extesy/hoverzoom/profile
