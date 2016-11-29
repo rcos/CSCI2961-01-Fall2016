@@ -15,7 +15,7 @@
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/connection-lost/chestshoppro/profile
   - **Progress Update Presentation Slides**
-  - **Date for Presentation**
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides** https://docs.google.com/presentation/d/1wx1HXKHfUcLUAgoxF66v4yFQ1-NKbCyGSbBFv4aE0eY/edit#slide=id.g138a99816c_1_5
   - **Repository** https://github.com/connection-lost/chestshoppro
   - **Blog** https://rcos.io/projects/connection-lost/chestshoppro/blog
@@ -24,7 +24,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/mmetro/texteditor/profile
   - **Progress Update Presentation Slides**
-  - **Date for Presentation**
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides**
   - **Repository** https://github.com/mmetro/texteditor
   - **Blog** https://rcos.io/projects/mmetro/texteditor/blog
@@ -42,7 +42,7 @@
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/slegec/lms_grabber/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1-BbTabatUFGdLqMo0l12jcweonBs2QEQpgQ3W3pyEmQ/edit
-  - **Date for Presentation**
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/slegec/lms_grabber
   - **Blog** https://rcos.io/projects/slegec/lms_grabber/blog
@@ -105,11 +105,11 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/14DVSne3XbU-ophfxiHVf3MFiyofGqwRCgF4FzhdBmo8/edit#slide=id.p
-  - **Date for Presentation**
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/mmetro/WeirdSideofYouTube
   - **Blog** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/blog
-- **HooverZoom:** (External Project) Sean Maltby, Ben Gruber and Chris George 
+- **HoverZoom:** (External Project) Sean Maltby, Ben Gruber and Chris George 
   - **Pitch Slides** https://drive.google.com/open?id=0B3AxVWEWY1u0Z3R6eXI3bWFWblk
   - **Mentor** Adeet Phanse
   - **Dashboard** https://rcos.io/projects/extesy/hoverzoom/profile
@@ -132,7 +132,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/demsks/relax/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1h2K7dtCBz8e_YBH-JTTbPGnEP_Bw5KR6gVEiCzRepM4/edit#slide=id.g13bca89d75_0_50
-  - **Date for Presentation**
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/demsks/relax
   - **Blog** https://rcos.io/projects/demsks/relax/blog
