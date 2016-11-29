@@ -6,7 +6,7 @@
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/alsheh/sympy/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1RQQBycsgnPy9t_0V-7FRbIRf0ns3QFcocZfVh17L9Qs/edit
-  - **Date for Presentation**
+  - **Date for Presentation** 12/9/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/alsheh/sympy
   - **Blog** https://rcos.io/projects/alsheh/sympy/blog
@@ -34,7 +34,7 @@
   - **Mentor** Adeet Phanse
   - **Dashboard** https://rcos.io/projects/wtg/shuttle-signups/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1z6613oBdNIpahi9zob4oQGtOX5Bv-GGrk7ypKiFEt8c/edit#slide=id.gc6fa3c898_0_0
-  - **Date for Presentation**
+  - **Date for Presentation** 12/9/2016
   - **Presentation Slides**
   - **Repository**  https://github.com/wtg/shuttle-signup
   - **Blog** https://rcos.io/projects/wtg/shuttle-signups/blog
@@ -52,7 +52,7 @@
   - **Mentor** Sean Waclawik
   - **Dashboard** https://rcos.io/projects/foxe2/capp-reporter/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1WavwDWTKdcwhMeTtqXsHzcrFDo5mUOlVAqXzMv66T_Y/edit
-  - **Date for Presentation**
+  - **Date for Presentation** 12/9/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/foxe2/CAPP-Reporter
   - **Blog** https://rcos.io/projects/foxe2/capp-reporter/blog
@@ -61,7 +61,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/vcc-helpdesk/timecard/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1E7LnnQzXFrKMaKkaxiFCHeT4nczqexU_eeqgxeclnW4/edit?ts=5833a4b3#slide=id.g13ba6fbf79_0_0
-  - **Date for Presentation**
+  - **Date for Presentation** 12/9/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/vcc-helpdesk/timecard
   - **Blog** https://rcos.io/projects/vcc-helpdesk/timecard/blog
@@ -79,7 +79,7 @@
   - **Mentor** Sean Waclawik
   - **Dashboard** https://rcos.io/projects/yanx611/flightonight/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1rDwdNi5osTbSu1BHvQ6_5UT2O9Wqjo6ygEo6k1F7G7g/edit
-  - **Date for Presentation**
+  - **Date for Presentation** 12/9/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/yanx611/flightonight
   - **Blog** https://rcos.io/projects/yanx611/flightonight/blog
@@ -88,7 +88,7 @@
   - **Mentor** Sean Waclawik
   - **Dashboard** https://rcos.io/projects/chinrw/weatherbot/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/13IHf-5PtdwihmLoaCCWeA0e42OruUxlu62-Ki_PwMDk/edit#slide=id.p
-  - **Date for Presentation**
+  - **Date for Presentation** 12/9/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/chinrw/WeatherBot
   - **Blog** https://rcos.io/projects/chinrw/weatherbot/blog
@@ -97,7 +97,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/rmarathay/geocommerce/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1WwWKFcV_m0hr0mkQdMGBKbicdtLngyEyUy0uf0cTa00/edit#slide=id.p
-  - **Date for Presentation**
+  - **Date for Presentation** 12/9/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/rmarathay/geocommerce
   - **Blog** https://rcos.io/projects/rmarathay/geocommerce/blog
@@ -115,7 +115,7 @@
   - **Mentor** Adeet Phanse
   - **Dashboard** https://rcos.io/projects/extesy/hoverzoom/profile
   - **Progress Update Presentation Slides** https://slack-files.com/files-pri-safe/T033VT1N8-F35TXUEP7/presentation_update.pdf?c=1479834538-b5739edb419af17f3ff7d0ca2a8797319f42996c
-  - **Date for Presentation**
+  - **Date for Presentation** 12/9/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/extesy/hoverzoom
   - **Blog** https://rcos.io/projects/extesy/hoverzoom/blog
@@ -124,7 +124,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/lawron/heavylook/profile
   - **Progress Update Presentation Slides**
-  - **Date for Presentation**
+  - **Date for Presentation** 12/9/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/lawron/heavylook
   - **Blog** https://rcos.io/projects/lawron/heavylook/blog
@@ -142,7 +142,7 @@
   - **Mentor** Moorthy
   - **Dashboard**
   - **Progress Update Presentation Slides**
-  - **Date for Presentation**
+  - **Date for Presentation** 12/9/2016
   - **Presentation Slides** 
   - **Repository** 
   - **Blog** 
