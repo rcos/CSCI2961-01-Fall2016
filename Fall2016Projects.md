@@ -15,7 +15,8 @@
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/connection-lost/chestshoppro/profile
   - **Progress Update Presentation Slides** (youtube) https://www.youtube.com/watch?v=jtKRay8S9HY
-  - **Date for Presentation**
+  https://docs.google.com/presentation/d/1wx1HXKHfUcLUAgoxF66v4yFQ1-NKbCyGSbBFv4aE0eY/edit#slide=id.p
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/connection-lost/chestshoppro
   - **Blog** https://rcos.io/projects/connection-lost/chestshoppro/blog
@@ -23,9 +24,9 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/14avrLrv2spXzaRnFZAl-59HUeKd5mBW3vTusC1YMIDs/edit#slide=id.p
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/mmetro/texteditor/profile
-  - **Progress Update Presentation Slides**
-  - **Date for Presentation**
-  - **Presentation Slides**
+  - **Progress Update Presentation Slides** https://www.youtube.com/watch?v=f-QecSahHL0&feature=youtu.be (youtube)
+  - **Date for Presentation** 12/6/2016
+  - **Presentation Slides** https://www.youtube.com/watch?v=f-QecSahHL0&feature=youtu.b
   - **Repository** https://github.com/mmetro/texteditor
   - **Blog** https://rcos.io/projects/mmetro/texteditor/blog
 - **gnuber:** Lucien Brulé, John Caicedo, Max Wang 
@@ -42,7 +43,7 @@
   - **Mentor** Matthew Mawby
   - **Dashboard** https://rcos.io/projects/slegec/lms_grabber/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1-BbTabatUFGdLqMo0l12jcweonBs2QEQpgQ3W3pyEmQ/edit
-  - **Date for Presentation**
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/slegec/lms_grabber
   - **Blog** https://rcos.io/projects/slegec/lms_grabber/blog
@@ -105,7 +106,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/14DVSne3XbU-ophfxiHVf3MFiyofGqwRCgF4FzhdBmo8/edit#slide=id.p
-  - **Date for Presentation**
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/mmetro/WeirdSideofYouTube
   - **Blog** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/blog
@@ -132,7 +133,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/demsks/relax/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1h2K7dtCBz8e_YBH-JTTbPGnEP_Bw5KR6gVEiCzRepM4/edit#slide=id.g13bca89d75_0_50
-  - **Date for Presentation**
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/demsks/relax
   - **Blog** https://rcos.io/projects/demsks/relax/blog
