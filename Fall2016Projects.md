@@ -70,7 +70,7 @@
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/projects/mkd93/minebot-v2/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1xNK3xEyi9EZUNaqjzSuIYnN5aWtap_V-Or85aS9nEU8/edit#slide=id.g193ab1ea0d_2_225
-  - **Date for Presentation**
+  - **Date for Presentation** 12/6/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/mkd93/minebot-v2
   - **Blog**  https://rcos.io/projects/mkd93/minebot-v2/blog
