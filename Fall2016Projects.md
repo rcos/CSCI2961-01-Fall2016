@@ -108,7 +108,7 @@
   - **Dashboard** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/14DVSne3XbU-ophfxiHVf3MFiyofGqwRCgF4FzhdBmo8/edit#slide=id.p
   - **Date for Presentation** 12/6/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/10jXU_4LN6urxTCdhAxfzXtFzAR_ViHebI5TlBSBaHFU/edit#slide=id.p
   - **Repository** https://github.com/mmetro/WeirdSideofYouTube
   - **Blog** https://rcos.io/projects/ametrocavich/WeirdSideofYouTube/blog
 - **HoverZoom:** (External Project) Sean Maltby, Ben Gruber and Chris George 
