@@ -17,7 +17,8 @@
   - **Progress Update Presentation Slides** (youtube) https://www.youtube.com/watch?v=jtKRay8S9HY
   https://docs.google.com/presentation/d/1wx1HXKHfUcLUAgoxF66v4yFQ1-NKbCyGSbBFv4aE0eY/edit#slide=id.p
   - **Date for Presentation** 12/6/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1ETdk6Eo3OxCepYsyUDHTAY06Xj6V2MLhQRtUxBNZDDM/edit#slide=id.p
+  
   - **Repository** https://github.com/connection-lost/chestshoppro
   - **Blog** https://rcos.io/projects/connection-lost/chestshoppro/blog
 - **Extensible Text Editor:** Michael Metrocavich 
@@ -44,7 +45,7 @@
   - **Dashboard** https://rcos.io/projects/slegec/lms_grabber/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1-BbTabatUFGdLqMo0l12jcweonBs2QEQpgQ3W3pyEmQ/edit
   - **Date for Presentation** 12/6/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1wB6wWbwsJFKPSwdSUfMkZ9vSGPs7WszHz_A5xlA6jlo/edit#slide=id.p
   - **Repository** https://github.com/slegec/lms_grabber
   - **Blog** https://rcos.io/projects/slegec/lms_grabber/blog
 - **CAPP Reporter** Ethan Fox, TJ Passaro, Zach Wimer 
@@ -71,7 +72,7 @@
   - **Dashboard** https://rcos.io/projects/mkd93/minebot-v2/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1xNK3xEyi9EZUNaqjzSuIYnN5aWtap_V-Or85aS9nEU8/edit#slide=id.g193ab1ea0d_2_225
   - **Date for Presentation** 12/6/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1Q8dhN81RPneLbVsrV66mHRFix-Ur4UUNO8M7_W1Y7ss/edit#slide=id.g13d08e4a2b_2_135
   - **Repository** https://github.com/mkd93/minebot-v2
   - **Blog**  https://rcos.io/projects/mkd93/minebot-v2/blog
 - **FLIGHTonight:**  Ying Guo, Yiyan Xu, Xinyue Yan 
@@ -134,7 +135,7 @@
   - **Dashboard** https://rcos.io/projects/demsks/relax/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1h2K7dtCBz8e_YBH-JTTbPGnEP_Bw5KR6gVEiCzRepM4/edit#slide=id.g13bca89d75_0_50
   - **Date for Presentation** 12/6/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1OK0nBd21hc0cu-K2zeukBqRNbKLccFd4VK89cieF3FE/edit#slide=id.g19db091655_0_50
   - **Repository** https://github.com/demsks/relax
   - **Blog** https://rcos.io/projects/demsks/relax/blog
 - **DD - A Ride Sharing App for Students**  Avi Singh (10/28/2016)
@@ -152,7 +153,7 @@
   - **Dashboard** https://rcos.io/projects/rellink/knowledge-api/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/17h-DvAoSN9iTERVB_Jmf2mlBj8_ie_85qqpXuwIUGL4/edit
   - **Date for Presentation** 12/6/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1QLfAaeEvNKCxkk-xSgdPcoRy807zFHPIh0YoNEfuEYs/edit#slide=id.p
   - **Repository** https://github.com/rellink/knowledge-api
   - **Blog** https://rcos.io/projects/rellink/knowledge-api/blog
 
