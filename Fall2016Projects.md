@@ -7,7 +7,7 @@
   - **Dashboard** https://rcos.io/projects/alsheh/sympy/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1RQQBycsgnPy9t_0V-7FRbIRf0ns3QFcocZfVh17L9Qs/edit
   - **Date for Presentation** 12/9/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1Te1GCs2foE32yeIdg1CeUB4u4XyrI47U43xunWrGAxY/edit?usp=sharing
   - **Repository** https://github.com/alsheh/sympy
   - **Blog** https://rcos.io/projects/alsheh/sympy/blog
 - **ChestShopPro:** (External Project) Yitong (Frank) Wu 
@@ -36,7 +36,7 @@
   - **Dashboard** https://rcos.io/projects/wtg/shuttle-signups/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1z6613oBdNIpahi9zob4oQGtOX5Bv-GGrk7ypKiFEt8c/edit#slide=id.gc6fa3c898_0_0
   - **Date for Presentation** 12/9/2016
-  - **Presentation Slides**
+  - **Presentation Slides** https://docs.google.com/presentation/d/1fjaXDI09e9QHUtDCrK8CdMmUkWfpB8ofnqjc30NMWQM/edit?usp=sharing
   - **Repository**  https://github.com/wtg/shuttle-signup
   - **Blog** https://rcos.io/projects/wtg/shuttle-signups/blog
 - **LMS Grabber:** Craig Slegel 
@@ -54,7 +54,7 @@
   - **Dashboard** https://rcos.io/projects/foxe2/capp-reporter/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1WavwDWTKdcwhMeTtqXsHzcrFDo5mUOlVAqXzMv66T_Y/edit
   - **Date for Presentation** 12/9/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/10GwzNAMqZFv4FW6cY3mEm6asSLf6XiR6Utj3V72KNYc/edit?usp=sharing
   - **Repository** https://github.com/foxe2/CAPP-Reporter
   - **Blog** https://rcos.io/projects/foxe2/capp-reporter/blog
 - **Help Desk Time Card:** Albert Shin, Justin Carlson, Lucas Notarangelo
@@ -63,7 +63,7 @@
   - **Dashboard** https://rcos.io/projects/vcc-helpdesk/timecard/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1E7LnnQzXFrKMaKkaxiFCHeT4nczqexU_eeqgxeclnW4/edit?ts=5833a4b3#slide=id.g13ba6fbf79_0_0
   - **Date for Presentation** 12/9/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1zfB7mgn_je7ozH2DpyuGnNoilGuMpgv4CD0DiEQr2FA/edit
   - **Repository** https://github.com/vcc-helpdesk/timecard
   - **Blog** https://rcos.io/projects/vcc-helpdesk/timecard/blog
 - **MineBot v2:** (continued from Spring 2016) Michael Duncan 
@@ -79,7 +79,7 @@
   - **Pitch Slides** https://docs.google.com/presentation/d/1oIFWBNNsGzhpYEPCjkIsavW34PQYeb0Efujlm4yCPhQ/edit#slide=id.p
   - **Mentor** Sean Waclawik
   - **Dashboard** https://rcos.io/projects/yanx611/flightonight/profile
-  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1rDwdNi5osTbSu1BHvQ6_5UT2O9Wqjo6ygEo6k1F7G7g/edit
+  - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/15qEsUxsn1Fxu8ck7gx6-L2MAjKeXO3Swxl8kTL4IXZU/edit?usp=sharing https://docs.google.com/presentation/d/1rDwdNi5osTbSu1BHvQ6_5UT2O9Wqjo6ygEo6k1F7G7g/edit
   - **Date for Presentation** 12/9/2016
   - **Presentation Slides** 
   - **Repository** https://github.com/yanx611/flightonight
@@ -90,7 +90,7 @@
   - **Dashboard** https://rcos.io/projects/chinrw/weatherbot/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/13IHf-5PtdwihmLoaCCWeA0e42OruUxlu62-Ki_PwMDk/edit#slide=id.p
   - **Date for Presentation** 12/9/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1GeX1pIh-SgsZ_s1r71k9OUzz1BiJtq6NaReGyFgsf3I/edit#slide=id.p
   - **Repository** https://github.com/chinrw/WeatherBot
   - **Blog** https://rcos.io/projects/chinrw/weatherbot/blog
 - **iOS GeoCommerce:** Ranjit Marathay
@@ -99,7 +99,7 @@
   - **Dashboard** https://rcos.io/projects/rmarathay/geocommerce/profile
   - **Progress Update Presentation Slides** https://docs.google.com/presentation/d/1WwWKFcV_m0hr0mkQdMGBKbicdtLngyEyUy0uf0cTa00/edit#slide=id.p
   - **Date for Presentation** 12/9/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1BEmp7p80wgA-tWsQBaudOrg0ZMawbtPKKt9xkwcDGn4/edit?usp=sharing
   - **Repository** https://github.com/rmarathay/geocommerce
   - **Blog** https://rcos.io/projects/rmarathay/geocommerce/blog
 - **Weird Side of YouTube:** (RCOS Project) YoungChul Chun
@@ -117,7 +117,7 @@
   - **Dashboard** https://rcos.io/projects/extesy/hoverzoom/profile
   - **Progress Update Presentation Slides** https://slack-files.com/files-pri-safe/T033VT1N8-F35TXUEP7/presentation_update.pdf?c=1479834538-b5739edb419af17f3ff7d0ca2a8797319f42996c
   - **Date for Presentation** 12/9/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/15IdfflSYwX-2YkVBchJpBh4dLXgnpDv0iwgdWvVLgUg/edit?usp=sharing
   - **Repository** https://github.com/extesy/hoverzoom
   - **Blog** https://rcos.io/projects/extesy/hoverzoom/blog
 - **Heavy Look A Window Explorers Edition:**  Ronald Law 
@@ -126,7 +126,7 @@
   - **Dashboard** https://rcos.io/projects/lawron/heavylook/profile
   - **Progress Update Presentation Slides**
   - **Date for Presentation** 12/9/2016
-  - **Presentation Slides** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/13ENYzGtbxpRxzrQTBy6_OppgPF_wJla24alDsKAhoJ0/edit?usp=drivesdk
   - **Repository** https://github.com/lawron/heavylook
   - **Blog** https://rcos.io/projects/lawron/heavylook/blog
 - **Relax**  (External Project - Also worked on Last Spring 2016 Semester) Shane Demskie (10/28/2016)
@@ -138,14 +138,14 @@
   - **Presentation Slides** https://docs.google.com/presentation/d/1OK0nBd21hc0cu-K2zeukBqRNbKLccFd4VK89cieF3FE/edit#slide=id.g19db091655_0_50
   - **Repository** https://github.com/demsks/relax
   - **Blog** https://rcos.io/projects/demsks/relax/blog
-- **DD - A Ride Sharing App for Students**  Avi Singh (10/28/2016)
+- **DD - A Ride Sharing App for Students** chaned to TL;DR  Avi Singh (10/28/2016)
   - **Pitch Slides** https://docs.google.com/presentation/d/1xSao8wujT9CuaUK9bxqnGx5U_WAJQKy8l8mZL8LxDcY/edit#slide=id.p
   - **Mentor** Moorthy
-  - **Dashboard**
+  - **Dashboard** https://rcos.io/users/584af8375c9cdc317996a938/profile
   - **Progress Update Presentation Slides**
   - **Date for Presentation** 12/9/2016
-  - **Presentation Slides** 
-  - **Repository** 
+  - **Presentation Slides** https://docs.google.com/presentation/d/1NlKAIayJeL7LVg4peEjujLd2qzhjl1EsCh7HpkWRzNw/edit?usp=sharing
+  - **Repository** https://github.com/asingh9/tldr
   - **Blog** 
 - **RelLink**  Kasi Chonpimai (11/11/2016)
   - **Pitch Slides** https://docs.google.com/presentation/d/11UTMj7Rm-qdbHeZJl5BbY2jelLFjJd5l4sukudNwpuA/edit#slide=id.gd9c453428_0_16
