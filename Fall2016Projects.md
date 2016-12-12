@@ -138,7 +138,7 @@
   - **Presentation Slides** https://docs.google.com/presentation/d/1OK0nBd21hc0cu-K2zeukBqRNbKLccFd4VK89cieF3FE/edit#slide=id.g19db091655_0_50
   - **Repository** https://github.com/demsks/relax
   - **Blog** https://rcos.io/projects/demsks/relax/blog
-- **DD - A Ride Sharing App for Students** chaned to TL;DR  Avi Singh (10/28/2016)
+- **DD - A Ride Sharing App for Students** changed to TL;DR  Avi Singh (10/28/2016)
   - **Pitch Slides** https://docs.google.com/presentation/d/1xSao8wujT9CuaUK9bxqnGx5U_WAJQKy8l8mZL8LxDcY/edit#slide=id.p
   - **Mentor** Moorthy
   - **Dashboard** https://rcos.io/users/584af8375c9cdc317996a938/profile
