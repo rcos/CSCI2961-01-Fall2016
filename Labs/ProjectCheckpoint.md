@@ -10,7 +10,8 @@
 
 - **Starting next Monday you should be updating the blog with one post per week person and committing at least 3-4 times per person to your repository**
 
-- **Also on November 21st you should make a one slide presentation containing a progress report on your project so far.**
+- **Also on April 11th you should make a one slide presentation containing a progress report on your project so far.**
 
 - **Check this file to make sure everything is up to date** 
-https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Fall2016Projects.md
+https://github.com/rcos/CSCI2963-01-Spring2017/blob/master/Spring2017Projects.md
+
